@@ -1,5 +1,7 @@
 # Offline Installer for Visual Studio 2017 Professional
 
+This project automates all steps described in **[Install Visual Studio 2017 on low bandwidth or unreliable network environments](https://docs.microsoft.com/en-us/visualstudio/install/install-vs-inconsistent-quality-network)** 
+
 **Tip:** You can easily change this installer to work with any edition of Visual Studio 2017.
 
 ## How to use
