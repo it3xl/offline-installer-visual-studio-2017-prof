@@ -1,6 +1,6 @@
 # Offline Installer for Visual Studio 2017 Professional
 
-You can easy change the installer to work with any edition of Visual Studio 2017.
+**Tip:** You can easily change this installer to work with any edition of Visual Studio 2017.
 
 ## How to use
 * Download this GitHub project on a machine with unrestricted internet access.
