@@ -9,7 +9,7 @@
 * Wait until it ends.
 * Copy everything on the target machine without the internet or with restricted internet access.
 * Run there **[install VS 2017 Prof.bat ](https://github.com/it3xl/offline-installer-visual-studio-2017-prof/blob/master/install%20VS%202017%20Prof.bat)**.
-* This will install required Microsoft certificates and start Visual Studio 2017 installation. 
+* This will install [required Microsoft certificates](https://docs.microsoft.com/en-us/visualstudio/install/install-certificates-for-visual-studio-offline) and start Visual Studio 2017 installation. 
 
 
 
