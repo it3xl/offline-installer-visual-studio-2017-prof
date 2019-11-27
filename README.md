@@ -1,5 +1,8 @@
 # Offline Installer for Visual Studio 2017 Professional
 
+Consider to use [Use the "Download all, then install" feature](https://docs.microsoft.com/en-us/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2019#use-the-download-all-then-install-feature) first.<br/>
+Event VS 2017 has it now.
+
 This project automates all steps described in **[Install Visual Studio 2017 on low bandwidth or unreliable network environments](https://docs.microsoft.com/en-us/visualstudio/install/install-vs-inconsistent-quality-network)** 
 
 **Tip:** You can easily change this project to work with any edition of Visual Studio 2017.
